@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="banner-title banner-description">
+  <title id="banner-title">Zhaoyu Wang — Embodied AI, World Models, Robot Learning</title>
+  <desc id="banner-description">A dark blue research profile banner with cyan accents. An abstract diagram on the right connects vision and touch to action.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A172B"/>
+      <stop offset="1" stop-color="#102F48"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#62E0E5"/>
+      <stop offset="1" stop-color="#64A9F8"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2398AF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2398AF" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M1 1 L5 3.5 L1 6" fill="none" stroke="#65C5D7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <ellipse cx="1005" cy="167" rx="295" ry="218" fill="url(#glow)"/>
+  <path d="M824 52V268 M874 52V268 M924 52V268 M974 52V268 M1024 52V268 M1074 52V268 M1124 52V268 M824 68H1142 M824 118H1142 M824 168H1142 M824 218H1142 M824 268H1142" stroke="#A4E2F1" stroke-opacity="0.035" fill="none"/>
+
+  <rect x="64" y="74" width="60" height="4" rx="2" fill="url(#accent)"/>
+  <text x="62" y="152" fill="#F0F7FC" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="1.5">ZHAOYU WANG</text>
+  <text x="65" y="202" fill="#BFD7E9" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="0.25">Embodied AI / World Models / Robot Learning</text>
+  <path d="M65 237H680" stroke="#45637C" stroke-width="1" stroke-opacity="0.55"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M938 136L976 202" stroke="#65C5D7" stroke-opacity="0.8" stroke-width="1.75" marker-end="url(#arrow)"/>
+    <path d="M1062 136L1024 202" stroke="#65C5D7" stroke-opacity="0.8" stroke-width="1.75" marker-end="url(#arrow)"/>
+    <path d="M956 104H1044" stroke="#6094B2" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="4 7"/>
+    <circle cx="920" cy="104" r="36" fill="#102C42" stroke="#60D6E2" stroke-opacity="0.75" stroke-width="1.5"/>
+    <circle cx="1080" cy="104" r="36" fill="#102C42" stroke="#60D6E2" stroke-opacity="0.75" stroke-width="1.5"/>
+    <circle cx="1000" cy="230" r="36" fill="#153D54" stroke="#8ADDEA" stroke-width="1.5"/>
+    <path d="M898 104Q920 77 942 104Q920 131 898 104Z" stroke="#A0E8ED" stroke-width="2"/>
+    <circle cx="920" cy="104" r="7" fill="#71D9E5" stroke="none"/>
+    <path d="M984 238L995 219L1006 234L1016 216" stroke="#A0E8ED" stroke-width="2.5"/>
+    <path d="M1008 217L1016 216L1017 224" stroke="#A0E8ED" stroke-width="2.5"/>
+  </g>
+  <g fill="#9AE5EC">
+    <circle cx="1068" cy="92" r="2.5"/><circle cx="1080" cy="92" r="3"/><circle cx="1092" cy="92" r="2.5"/>
+    <circle cx="1068" cy="104" r="3"/><circle cx="1080" cy="104" r="4"/><circle cx="1092" cy="104" r="3"/>
+    <circle cx="1068" cy="116" r="2.5"/><circle cx="1080" cy="116" r="3"/><circle cx="1092" cy="116" r="2.5"/>
+  </g>
+  <g fill="#A9C8DD" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" text-anchor="middle">
+    <text x="920" y="52">VISION</text>
+    <text x="1080" y="52">TOUCH</text>
+    <text x="1000" y="289">ACTION</text>
+  </g>
+</svg>
