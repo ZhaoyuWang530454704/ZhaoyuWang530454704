@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/research-banner.svg" alt="Zhaoyu Wang — Embodied AI, World Models, and Robot Learning" width="100%" />
+<a href="#user-content-selected-research">
+  <img src="assets/research-banner.svg" alt="Zhaoyu Wang — Embodied AI, World Models, and Robot Learning" width="100%" />
+</a>
 
 # Hi, I'm Zhaoyu Wang · 王兆宇
 
@@ -8,6 +10,15 @@
 
 Research with the Embodied Intelligence Group at **Zhejiang University**<br>
 Studied Computer Science at **The University of Sydney**
+
+<p>
+  <a href="https://www.sydney.edu.au/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/university-of-sydney-logo-white.svg" />
+      <img src="assets/university-of-sydney-logo.svg" width="233" alt="The University of Sydney logo" />
+    </picture>
+  </a>
+</p>
 
 [Research](#user-content-selected-research) · [Public Code](#user-content-public-code) · [Education](#user-content-education) · [Contact](#user-content-contact)
 
