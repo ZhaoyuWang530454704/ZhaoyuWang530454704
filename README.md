@@ -9,7 +9,7 @@
 Research with the Embodied Intelligence Group at **Zhejiang University**<br>
 Studied Computer Science at **The University of Sydney**
 
-[Research](#selected-research) · [Public Code](#public-code) · [Education](#education) · [Contact](#contact)
+[Research](#user-content-selected-research) · [Public Code](#user-content-public-code) · [Education](#user-content-education) · [Contact](#user-content-contact)
 
 </div>
 
