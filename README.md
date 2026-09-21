@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="#user-content-selected-research">
-  <img src="assets/research-banner-v2.png" alt="Zhaoyu Wang — Embodied AI, World Models, and Robot Learning" width="100%" />
+  <img src="assets/research-banner-sydney.png" alt="Zhaoyu Wang — Embodied AI, World Models, and Robot Learning" width="100%" />
 </a>
 
 # Hi, I'm Zhaoyu Wang · 王兆宇
